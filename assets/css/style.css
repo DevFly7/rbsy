@@ -247,3 +247,28 @@ body {
     top: 160px;
   }
 }
+
+@media (max-width:370px) {
+  .popup{
+    width: 330px;
+  }
+  .info{
+    width:130px;
+    left:200px;
+    padding: 10px;
+    padding-top:-17px;
+
+  }
+  .info h3{
+    font-size: 0.7rem;
+  }
+  .info p{
+    font-size: 0.6rem;
+  }
+
+  .cross button{
+    position: relative;
+    left: 140px;
+    top: 160px;
+  }
+}
