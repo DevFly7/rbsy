@@ -147,9 +147,6 @@ body {
 }
 
 @media (max-width:500px) {
-  .pop{
-    display: none;
-  }
   .popup{
     width: 450px;
   }
